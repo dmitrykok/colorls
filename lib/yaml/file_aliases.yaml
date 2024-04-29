@@ -1,3 +1,9 @@
+.bash_history:    shell
+.bash_profile:    shell
+.bashrc:          shell
+.gitattributes:   git
+.gitconfig:       git
+.gitignore:       git
 apk:              android
 gradle:           android
 ds_store:         apple
